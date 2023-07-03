@@ -530,7 +530,7 @@ def send_email_with_attachment():
 
     # setup the parameters of the message
     sender_email = "kvnt20@gmail.com"
-    password = "zosetvpyqbahecnh"
+    password = ""
 
     msg["From"] = sender_email
     msg["To"] = parameters["recipient_email"]
